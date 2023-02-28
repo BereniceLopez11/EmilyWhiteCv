@@ -2,7 +2,7 @@ const referencias = [
     {
         nombre: "Sam Lopez",
         trabajo: "Departamento de recursos humanos",
-        imagen:"ref2.webp",
+        imagen:"https://i0.wp.com/satelitenorte.com.mx/wp-content/uploads/2020/07/personalidad.jpg?fit=1200%2C930&ssl=1",
         texto: "Como jefe de recursos humanos, puedo decir que Emily tiene habilidades altamente desarrolladas por sobre la media del personal. Sus capacidades interpersonales y trabajo en equipo son excelentes."
 
     },
@@ -10,7 +10,7 @@ const referencias = [
     {
         nombre: "Laura Martinez",
         trabajo: "Tecnica informatica",
-        imagen:"ref3.jpg",
+        imagen:"https://b282c5de4f50ed30d5ce-25e9f6b52714e6c3d4dbb7e330152014.ssl.cf3.rackcdn.com/uploaded_thumb_medium/75ced0231b30d5bbba39592fef39e64d/fotografia_curriculum_linkedin_corporativa_madrid_003.jpg",
         texto: "Emily tiene una capacidad asombrosa en el manejo de programas tradicionales y sofisticados, su capacidad para aprender nuevas herramientas es admirable.",
 
     },
@@ -18,15 +18,15 @@ const referencias = [
     {
         nombre: "Juan Trescher",
         trabajo: "Jefe de personal",
-        imagen:"ref4.webp",
+        imagen:"https://opem.b-cdn.net/wp-content/uploads/2022/10/foto-curriculum.jpg",
         texto: "Siendo jefe de personal describiria a la Srta. White como una persona eficiente, responsable y comprometida con el trabajo. Tiene una gran creatividad y habilidad para resolver problemas."
     },
 
     {
         nombre: "Leila Juanes",
         trabajo: "Ingeniera de software",
-        imagen:"ref1.jpg",
-        texto: "Conoci a Emily en la facultad, y el destino nos llevo a trabajar en la misma empresa, gracias a eso puedo asegurar que su trabajo en equipo, junto con susgrandes habilidades y su tenacidad la hacen una increible opcion para los empleos relacionados con sistemas y bases de datos."
+        imagen:"https://cdn-images.resumelab.com/pages/13_foto_rles.jpg",
+        texto: "Conoci a Emily en la facultad, y el destino nos llevo a trabajar en la misma empresa, gracias a eso puedo asegurar que su trabajo en equipo, junto con sus grandes habilidades y su tenacidad la hacen una increible opcion para los empleos relacionados con sistemas y bases de datos."
 
     }
 ]

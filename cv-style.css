@@ -27,7 +27,7 @@ header{
 .hero1{
 	padding: 100px;
 	margin: 30px 25px;
-    background-image: url("bg4.jpg");
+    background-image: url("img/bg4.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -161,7 +161,7 @@ span{
 	width: 470px;
 	height: 190px;
 	margin-bottom: 0;
-	background-image: url("bg4.jpg");
+	background-image: url("img/bg4.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
