@@ -1,0 +1,233 @@
+*{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 200;
+}
+
+ul{
+	list-style: none;
+}
+
+body{
+	overflow-x: hidden;
+}
+
+header{
+	max-width: 1400px;
+	height: 55px;
+	background-color: rgb(240,240,240);
+}
+
+#a1, #a2, #a3, #a4, #a5 , #a6{
+	margin: auto 40px;
+	font-size: 17px;
+	color: black;
+	text-decoration: none;
+}
+
+.hero1{
+	padding: 100px;
+	margin: 30px 25px;
+    background-image: url("bg4.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.hero1__h1{
+	font-size: 70px;
+	text-align: center;
+	width: bold;
+}
+
+.principal{
+	height: 390px;
+}
+
+#img1{
+	height: 250px;
+	width: 250px;
+	outline: 1,5px solid rgb(230,230,230);
+	border-radius: 10px;
+}
+
+.img1{
+	position: absolute;
+	left:350px;
+	margin-top: 30px;
+}
+
+.firstinfo{
+	position: absolute;
+	padding: 20px;
+	padding-right: 100px;
+	left: 700px;
+	bottom: -109px;
+	outline: 1.5px solid rgb(230,230,230);
+	border-radius: 15px;
+}
+
+.firstinfo__li{
+	padding: 20px;
+}
+
+.last{
+	text-align: center;
+	position: absolute;
+	top: 750px;
+	left: 450px;
+	padding: 45px 30px;
+	margin-top: 10px;
+}
+
+footer{
+	height: 70px;
+	padding-top: 20px;
+	background-color: rgb(240,240,240);
+	text-align: right;
+}
+
+#h3f, #c1, #c2, #c3{
+	font-size: 15px;
+	display: inline;
+}
+
+span{
+	margin: 10px
+}
+
+.fila1, .fila2{
+	max-width: 1400px;
+	align-items: center;
+	text-align: center;
+	margin: 10px 5px;
+}
+
+.fila2{
+	margin: 0px 20px;
+}
+
+.containerdiv__div{
+	background-color: rgb(245,245,245);
+	text-align: center;
+	padding: 50px;
+	outline: 1.5px solid rgb(240, 240, 240);
+	border-radius: 15px;
+	margin: 25px;
+	display: inline-block;
+}
+
+.containerdiv__div:hover{
+	background-color:  rgb(230, 230, 230);
+	padding: 85px;
+	transition: 1s;
+}
+
+.containerdiv__h4{
+	font-size: 23px;
+}
+
+.containerdiv__p{
+	font-size: 18px !important;
+}
+
+.ediv, .ediv--, .decoracion{
+	background-color: rgb(245,245,245);
+	text-align: center;
+	padding: 50px;
+	outline: 1.5px solid rgb(240, 240, 240);
+	border-radius: 15px;
+	margin: 32px 20px 40px;
+}
+
+.ediv{
+	width: 60%
+}
+
+.ediv--{
+	width: 40%;
+	position: absolute;
+	top: 55px;
+	left: 840px;
+	width: 470px;
+	height: 350px;
+	padding-top: 70px;
+}
+
+.decoracion{
+	width: 40%;
+	position: absolute;
+	bottom: -5px;
+	left: 840px;
+	width: 470px;
+	height: 190px;
+	margin-bottom: 0;
+	background-image: url("bg4.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+#ex{
+	position: relative;
+	left: 190px;
+	background-color: rgb(245,245,245);
+	text-align: left;
+	padding: 50px;
+	outline: 1.5px solid rgb(240, 240, 240);
+	border-radius: 15px;
+	margin: 50px;
+	height: 502px;
+	width: 900px;
+}
+
+.exp{
+	font-size: 18px;
+}
+
+.divprincipal, .divimg{
+    text-align: center;
+	align-items: center;
+}
+
+.underline{
+	background-color: rgb(173, 74, 74);
+	height: 5px;
+	width: 100px;
+	position: relative;
+	left: 410px;
+	margin-top: 10px;
+}
+
+.divprincipal{
+	padding: 20px;
+	margin: 40px 200px;
+	background-color: rgb(230,230,230);
+}
+
+img{
+	height: 200px;
+	width: 230px;
+	margin: 20px auto;
+	border-radius: 180px;
+	outline: 1,5px solid rgb(250,250,250);
+}
+
+#nombre, #trabajo{
+	letter-spacing: 1px;
+}
+
+.butdiv{
+	position: relative;
+	bottom: 20px;
+}
+
+.prev-but, .next-but{
+	display: inline-block;
+	border: none;
+	background-color: rgb(230,230,230);
+	height: 15px;
+	position: relative;
+	top: 30px;
+}
+
+
